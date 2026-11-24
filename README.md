@@ -8,10 +8,10 @@ We'll build a compact power system using a rechargeable LiPo battery, a TP4056 c
 
 The system supplies regulated 5V power to the Raspberry Pi Zero W and the connected components, allowing us to enjoy retro games wherever we go.
 
-## 🔗 Links & Project Resources
+## 🔗 Youtube Links
 
-- 📺 **Previous Video – Full Handheld Build:** [Watch the Full Build & Testing Video](https://youtu.be/bb3McqdNa0c)
-- 📺 **Latest Video – Making It Portable:** [Watch the Portable Power System Build](https://youtu.be/xu1qENdJqgE)
+- 📺 **Part 1 – Full Handheld Build:** [Watch the Full Build & Testing Video](https://youtu.be/bb3McqdNa0c)
+- 📺 **Part 2 – Making It Portable:** [Watch the Portable Power System Build](https://youtu.be/xu1qENdJqgE)
 
 ---
 
